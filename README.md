@@ -40,6 +40,9 @@ Data Visualization: Generates a professional bar chart to represent the genomic 
 QC Status: ✅ PASS (100% Sequence Integrity)
 
 ## **How to Run**
+
 Clone the repository.
+
 Place sequence.fasta in the project root.
+
 Open Sars2spikeprotein.ipynb and run all cells to reproduce the report and charts.
