@@ -1,7 +1,5 @@
-# Sars2-Protein-Analysis
-This tool performs a genomic composition analysis of the SARS-CoV-2 Spike Protein (sourced from NCBI GeneBank). Built entirely in Python using Jupyter Lab
+#SARS-CoV-2 Complete Genome Analysis Project Overview
 
-SARS-CoV-2 Complete Genome Analysis 🧬Project Overview
 This bioinformatics project focuses on the genomic characterization of the SARS-CoV-2 isolate Wuhan-Hu-1. Using Python, I developed a pipeline to parse the complete viral genome, calculate nucleotide distribution, and perform essential Quality Control (QC) metrics to ensure data integrity.
 
 Dataset Information
@@ -9,7 +7,7 @@ Target: Severe acute respiratory syndrome coronavirus 2 (Complete Genome)
 NCBI Reference Sequence: NC_045512.2
 Sequence Length: 29,903 base pairs (bp)
 
-Technical StackLanguage: Python 3.x
+Technical StackLanguage: Python 3.13.5
 Environment: Jupyter Lab (.ipynb)
 Libraries: Matplotlib (Visualization), OS (File Handling)
 
